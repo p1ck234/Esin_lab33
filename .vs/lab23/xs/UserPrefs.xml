@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{57CB5BE8-5854-44D0-9438-BE058E0B02CC}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../usr/local/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.EolTargetFrameworks.targets">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="16" Column="1" />
-      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.EolTargetFrameworks.targets" Line="28" Column="5" />
+      <File FileName="WorkerForBirds.cs" Line="1" Column="1" />
+      <File FileName="WorkerForMammals.cs" Line="1" Column="1" />
+      <File FileName="mammal.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="lab23" expanded="True">
-            <Node name="lab23" expanded="True" selected="True" />
+            <Node name="lab23" expanded="True" />
           </Node>
         </State>
       </Pad>

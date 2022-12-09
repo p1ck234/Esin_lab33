@@ -1,0 +1,15 @@
+/Users/p1ck23/Downloads/lab23/bin/Debug/net6.0/lab23
+/Users/p1ck23/Downloads/lab23/bin/Debug/net6.0/lab23.deps.json
+/Users/p1ck23/Downloads/lab23/bin/Debug/net6.0/lab23.runtimeconfig.json
+/Users/p1ck23/Downloads/lab23/bin/Debug/net6.0/lab23.dll
+/Users/p1ck23/Downloads/lab23/bin/Debug/net6.0/lab23.pdb
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.csproj.AssemblyReference.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.AssemblyInfoInputs.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.AssemblyInfo.cs
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.csproj.CoreCompileInputs.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.dll
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/refint/lab23.dll
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.pdb
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/lab23.genruntimeconfig.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net6.0/ref/lab23.dll

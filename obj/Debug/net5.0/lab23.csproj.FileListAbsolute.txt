@@ -1,0 +1,32 @@
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.csproj.AssemblyReference.cache
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.AssemblyInfoInputs.cache
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.AssemblyInfo.cs
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.csproj.CoreCompileInputs.cache
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/bin/Debug/net5.0/lab23.exe
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/bin/Debug/net5.0/lab23.deps.json
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/bin/Debug/net5.0/lab23.runtimeconfig.json
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/bin/Debug/net5.0/lab23.runtimeconfig.dev.json
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/bin/Debug/net5.0/lab23.dll
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/bin/Debug/net5.0/lab23.pdb
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.dll
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/refint/lab23.dll
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.pdb
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/lab23.genruntimeconfig.cache
+C:/Users/kakvi/OneDrive/Рабочий стол/Есин лабы/Олег/lab23/obj/Debug/net5.0/ref/lab23.dll
+/Users/p1ck23/Downloads/lab23/bin/Debug/net5.0/lab23
+/Users/p1ck23/Downloads/lab23/bin/Debug/net5.0/lab23.deps.json
+/Users/p1ck23/Downloads/lab23/bin/Debug/net5.0/lab23.runtimeconfig.json
+/Users/p1ck23/Downloads/lab23/bin/Debug/net5.0/lab23.runtimeconfig.dev.json
+/Users/p1ck23/Downloads/lab23/bin/Debug/net5.0/lab23.dll
+/Users/p1ck23/Downloads/lab23/bin/Debug/net5.0/lab23.pdb
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.csproj.AssemblyReference.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.AssemblyInfoInputs.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.AssemblyInfo.cs
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.csproj.CoreCompileInputs.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.dll
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/refint/lab23.dll
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.pdb
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/lab23.genruntimeconfig.cache
+/Users/p1ck23/Downloads/lab23/obj/Debug/net5.0/ref/lab23.dll
